@@ -79,12 +79,6 @@ Each notebook blends intuition, theory, and practical examples using tools such 
   - PH-based classification of ECG / EEG signals  
 ---
 
-## License
-
-This repository is available under the MIT License. See `LICENSE`.
-
----
-
 ## Contact
 
 Local organizers (from official page): Priyavrat Deshpande, Vijay Natarajan, Siddharth Pritam. For repo-specific queries, kindly please open an issue or tag the `maintainers` team on the organization GitHub.
